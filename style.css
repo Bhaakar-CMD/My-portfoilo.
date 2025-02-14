@@ -1,8 +1,8 @@
 /*genral setting */
 * {
     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    pading: 0;
+    box-sizig: border-box;
     font-family: 'poppins', sans-serif;
 }
 
@@ -12,13 +12,13 @@
 
 body {
     background-color: #ffffff;
-    color: #ffffff;
+    colour: #ffffff;
     text-align: center;
 }
 
 /* heading styling*/
 header {
-    background-color: rgb(10, 13, 10);
+    background-color: rgb(43, 118, 50);
     position: static;
     width: 100%;
     top: 0;
@@ -27,8 +27,7 @@ header {
     padding: 50px;
 }
 
-/*nav styling*/
-nav {
+/nav styling/ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -192,6 +191,8 @@ textarea {
     margin-bottom: 10px;
     border-radius: 10px;
     border-color: black;
+
+
 }
 
 button {
@@ -203,10 +204,10 @@ button {
 }
 
 button:hover {
-    background: #30d706;
+    background: #222;
 }
 
 footer {
-    background-color: #910c0c;
+    background-color: #ffffff;
     padding: 3%;
 }
